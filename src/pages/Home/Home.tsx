@@ -19,6 +19,9 @@ function Home() {
         <li>
           <Link to="/example-one">Example One</Link>
         </li>
+        <li>
+          <Link to="/example-two">Example Two</Link>
+        </li>
       </ul>
     </div>
   )
